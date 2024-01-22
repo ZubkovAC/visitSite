@@ -56,7 +56,7 @@ const Page = () => {
             <div>
                 <div  className={css.colorBlack}> Комерческий опыт в программировании. </div>
                 <div>
-                    OOO "Финкейс" с 07.2021г. до 06.2022г
+                    OOO Финкейс с 07.2021г. до 06.2022г
                 </div>
             </div>
             <div  className={css.colorBlack}> Образование. </div>

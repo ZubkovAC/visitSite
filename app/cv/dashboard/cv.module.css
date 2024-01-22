@@ -1,0 +1,16 @@
+.column{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.color {
+    color: black;
+}
+.size24 {
+    font-size: 24px;
+}
+.size18 {
+    font-size: 18px;
+}
+.margin20px{
+    margin: 20px;
+}

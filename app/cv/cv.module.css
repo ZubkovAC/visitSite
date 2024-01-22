@@ -1,0 +1,27 @@
+.cv{
+    margin: 15px;
+}
+.size24{
+    font-size: 24px;
+}
+.colorBlack{
+    font-size: 20px;
+    color: black;
+}
+
+@media (max-width: 320px) {
+    .cv{
+        min-width: 320px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .cv{
+        max-width: 1280px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px solid rgb(112,0,0);
+        padding: 15px;
+        border-radius: 5px;
+    }
+}

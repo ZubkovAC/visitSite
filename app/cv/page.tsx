@@ -65,7 +65,7 @@ const Page = () => {
             <div> - курсы IT Incubator Frontend (2020-2021) </div>
             <div> - курсы IT Incubator backEnd (2022-2023) </div>
             <div  className={css.colorBlack}> Технологии которые задействовались в программировании :  </div>
-            - React, Next,TypeScript, Redux, Mobx, Redux Toolkit, Axios, Material Ul, Ant design, Blind Printing,
+            - React, Next, TypeScript, Redux, Mobx, Redux Toolkit, Axios, Material Ul, Ant design, Blind Printing,
             Express, Nest js, Node, MongoDB, MongoAtlas, Rest Api ,Socket.IO
 
 

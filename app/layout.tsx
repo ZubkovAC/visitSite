@@ -6,14 +6,14 @@ export const metadata = {
 }
 //
 //
+const myFont = localFont({
+  src: '/Natasha.ttf',
+  display: 'swap',
+})
 // const myFont = localFont({
 //   src: '/pobeda-regular.ttf',
-//   display: 'pobeda',
+//   display: 'swap'
 // })
-const myFont = localFont({
-  src: '/pobeda-regular.ttf',
-  display: 'swap'
-})
 
 export default function RootLayout({
   children,

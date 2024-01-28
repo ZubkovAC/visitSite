@@ -1,8 +1,6 @@
 import React from 'react';
 import css from './cv.module.css'
 
-
-
 const HeaderCv = () => {
     return (
         <div >
@@ -24,7 +22,7 @@ const HeaderCv = () => {
 
             <div className={css.column}>
                 <div >
-                    web разработчик
+                    Frontend разработчик
                 </div>
                 <div className={css.color}>
                     <div style={{display:'flex'}}>

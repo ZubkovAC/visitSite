@@ -7,7 +7,7 @@ export const metadata = {
 //
 //
 const myFont = localFont({
-  src: '/Natasha.ttf',
+  src: '/Roboto-R.ttf',
   display: 'swap',
 })
 // const myFont = localFont({
